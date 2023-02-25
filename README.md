@@ -1,2 +1,3 @@
-# FlightPlanner
-Project 4 for CS 2341 Data Structures
+# 21f-PA04-Template
+
+[Project Handout](https://docs.google.com/document/d/1VfniaoUlj8diwn4atHbDQvE_rAGWLAVwvG4lmuMrdZM/edit?usp=sharing)
